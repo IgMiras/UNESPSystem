@@ -1,0 +1,148 @@
+
+>
+java:S1604<"(Make this anonymous inner class a lambda(®åİ›
+C
+java:S1604F"(Make this anonymous inner class a lambda(„±ÓÎùÿÿÿÿ
+>
+java:S1604N"(Make this anonymous inner class a lambda(Î¤í
+>
+java:S1604V"(Make this anonymous inner class a lambda(Ö—Å
+C
+java:S1604d"(Make this anonymous inner class a lambda(ì­¹Èÿÿÿÿÿ
+>
+java:S1604l"(Make this anonymous inner class a lambda(ÇµÇß
+C
+java:S1604t"(Make this anonymous inner class a lambda(Ù‡©øÿÿÿÿ
+>
+java:S1604|"(Make this anonymous inner class a lambda(‚™£Š
+?
+java:S1604„"(Make this anonymous inner class a lambda(¸®Ğ—
+D
+java:S1604Œ"(Make this anonymous inner class a lambda(†ıï„şÿÿÿÿ
+?
+java:S1604”"(Make this anonymous inner class a lambda(Ó·Ñ
+?
+java:S1604œ"(Make this anonymous inner class a lambda(®ÏÌø
+D
+java:S1604¤"(Make this anonymous inner class a lambda(£Ç¢šøÿÿÿÿ
+?
+java:S1604¬"(Make this anonymous inner class a lambda(Ã›¾
+?
+java:S1604´"(Make this anonymous inner class a lambda(¼áÓ€
+D
+java:S1604¼"(Make this anonymous inner class a lambda(‘‹áşÿÿÿÿ
+D
+java:S1604Ä"(Make this anonymous inner class a lambda(˜×¤Óûÿÿÿÿ
+D
+java:S1604ä"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604ì"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604ô"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604ü"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604„"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604Œ"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604”"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604œ"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604¤"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604¬"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604´"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604¼"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604Ä"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604Ì"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604Ô"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604Ü"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604ä"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğ ¿¸
+r
+java:S1450ğ"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+l
+java:S1450ñ"URemove the "jMenu1" field and declare it as a local variable in the relevant methods.(şÚÖ˜
+l
+java:S1450ò"URemove the "jMenu2" field and declare it as a local variable in the relevant methods.(€˜ÇÛ
+t
+java:S1450ó"XRemove the "jMenuBar1" field and declare it as a local variable in the relevant methods.(úıÁ›ÿÿÿÿÿ
+y
+java:S1450ô"]Remove the "jMenuCadastrar" field and declare it as a local variable in the relevant methods.(Å›Âæùÿÿÿÿ
+o
+java:S1450õ"YRemove the "jMenuItem1" field and declare it as a local variable in the relevant methods.(Éíå4
+v
+java:S1450ö"ZRemove the "jMenuItem10" field and declare it as a local variable in the relevant methods.(•Ÿ×…øÿÿÿÿ
+q
+java:S1450÷"ZRemove the "jMenuItem11" field and declare it as a local variable in the relevant methods.(Ê¿Ø
+q
+java:S1450ø"ZRemove the "jMenuItem12" field and declare it as a local variable in the relevant methods.(Ş¬«½
+v
+java:S1450ù"ZRemove the "jMenuItem13" field and declare it as a local variable in the relevant methods.(«Ù³ªşÿÿÿÿ
+q
+java:S1450ú"ZRemove the "jMenuItem14" field and declare it as a local variable in the relevant methods.(ÿúñ
+q
+java:S1450û"ZRemove the "jMenuItem15" field and declare it as a local variable in the relevant methods.(ŸÎ‹‡
+q
+java:S1450ü"ZRemove the "jMenuItem16" field and declare it as a local variable in the relevant methods.(¶úîü
+p
+java:S1450ı"YRemove the "jMenuItem2" field and declare it as a local variable in the relevant methods.(ßÛİ•
+u
+java:S1450ş"YRemove the "jMenuItem3" field and declare it as a local variable in the relevant methods.(ÇÄˆÆøÿÿÿÿ
+p
+java:S1450ÿ"YRemove the "jMenuItem4" field and declare it as a local variable in the relevant methods.(¸ªÊå
+p
+java:S1450€"YRemove the "jMenuItem5" field and declare it as a local variable in the relevant methods.(ÈãÏ€
+p
+java:S1450"YRemove the "jMenuItem6" field and declare it as a local variable in the relevant methods.(ÃÁ–î
+u
+java:S1450‚"YRemove the "jMenuItem7" field and declare it as a local variable in the relevant methods.(½à®—üÿÿÿÿ
+p
+java:S1450ƒ"YRemove the "jMenuItem8" field and declare it as a local variable in the relevant methods.(»óö
+u
+java:S1450„"YRemove the "jMenuItem9" field and declare it as a local variable in the relevant methods.(¾Òÿàÿÿÿÿÿ
+{
+java:S1450…"dRemove the "jMenuItemDepartamento" field and declare it as a local variable in the relevant methods.(ô‘­
+A
+java:S1172ã"*Remove this unused method parameter "evt".(û¿£¾
+A
+java:S1172ë"*Remove this unused method parameter "evt".(ÆÀÁ
+A
+java:S1172ó"*Remove this unused method parameter "evt".(ÖØ‡«
+A
+java:S1172û"*Remove this unused method parameter "evt".(îÇ¤ş
+A
+java:S1172ƒ"*Remove this unused method parameter "evt".(œ¿‹ª
+F
+java:S1172‹"*Remove this unused method parameter "evt".(ÇËÿÌúÿÿÿÿ
+F
+java:S1172“"*Remove this unused method parameter "evt".(ŠŒİşÿÿÿÿ
+F
+java:S1172›"*Remove this unused method parameter "evt".(»ç˜¼úÿÿÿÿ
+A
+java:S1172£"*Remove this unused method parameter "evt".(ÓÌôµ
+F
+java:S1172«"*Remove this unused method parameter "evt".(©Èèâıÿÿÿÿ
+A
+java:S1172³"*Remove this unused method parameter "evt".(ŸË¦°
+A
+java:S1172»"*Remove this unused method parameter "evt".(Ô×ÆÚ
+@
+java:S1172Ã"*Remove this unused method parameter "evt".(à“F
+A
+java:S1172Ë"*Remove this unused method parameter "evt".(®ö™
+F
+java:S1172Ó"*Remove this unused method parameter "evt".(ıÁæÙşÿÿÿÿ
+A
+java:S1172Û"*Remove this unused method parameter "evt".(™·œß
+F
+java:S1172ã"*Remove this unused method parameter "evt".(„‡ğøÿÿÿÿ
